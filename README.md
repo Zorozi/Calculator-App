@@ -9,9 +9,9 @@ To get started with the calculator app, you can simply clone or download the rep
 
 ## Usage
 
-The calculator app has a simple and user-friendly interface that allows you to perform basic arithmetic operations. To use the app, simply click on the buttons to input the numbers and operators. You can also use the keyboard to input numbers and operators.
+The calculator app has a simple and user-friendly interface that allows you to perform basic arithmetic operations. To use the app, click on the buttons to input the numbers and/or operators. You could also use the keyboard to input numbers and operators.
 
-Here's a brief overview of the calculator app's features:
+Here's a brief summary of the Calculator App's features:
 
 - **Addition**: Use the "+" button to add two numbers together.
 - **Subtraction**: Use the "-" button to subtract one number from another.
